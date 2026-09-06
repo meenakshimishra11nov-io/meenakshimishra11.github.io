@@ -1,5 +1,4 @@
 # meenakshimishra11.github.io
-Human Resource Resume
 
 # Meenakshi Mishra — HR Professional Portfolio
 
