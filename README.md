@@ -2,18 +2,43 @@
 
 # Meenakshi Mishra — HR Professional Portfolio
 
-## 👩‍💼 About Me
+# 👩‍💼 Meenakshi Mishra
 
-Certified HR professional with around **8 years and 9 months of experience**, including strong experience supporting UK stakeholders in **HR Operations, Ask HR, Employee Services, HRIS, employee lifecycle processes, reporting, and case resolution**.
+<p align="center">
+  <img src="profile-photo.jpg" width="180" height="180" style="border-radius:50%;" alt="Meenakshi Mishra">
+</p>
 
-I specialize in providing accurate, empathetic, and timely HR support while working with cross-functional stakeholders and HR technology platforms.
+<h3 align="center">
+  HR Operations | Ask HR Advisor | Employee Services | HR Analytics
+</h3>
 
-📍 Gurgaon, Haryana  
-📧 meenakshi.mishra23@outlook.com
+<p align="center">
+  📍 Gurgaon, Haryana, India
+</p>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/rosecatcher11/">
+  <img src="https://img.shields.io/badge/Instagram-rosecatcher11-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:meenakshi.mishra23@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-## 🎯 Professional Focus
+## 👋 About Me
+
+I am a **Certified HR Professional** with around **8 years and 9 months of professional experience**, including extensive experience supporting UK stakeholders.
+
+My core expertise is in:
 
 - HR Operations
 - Ask HR / Employee Services
@@ -27,155 +52,314 @@ I specialize in providing accurate, empathetic, and timely HR support while work
 - HR Process Improvement
 - Compliance & Data Privacy
 
----
-
-## 🛠️ Technical Skills
-
-### HR Technology
-
-- Workday (HRIS)
-- Oracle
-- ServiceNow
-- SAP SuccessFactors
-- MyHR / iConnect
-
-### Data & Analytics
-
-- Microsoft Excel
-- Power BI — Dashboards & Reports
-- Tableau — Beginner
-- SQL
-- HR Analytics
-- Data-Driven Insights
-
-### HR Operations
-
-- Payroll & Leave Administration
-- Employee Experience & Case Resolution
-- Documentation & SOP Development
-- Reporting & Data Accuracy
-- Stakeholder Management
-- Employee Support
+I enjoy working at the intersection of **people, processes, technology and data** to create better employee experiences and efficient HR operations.
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### British Telecom (BT)
-**Ask HR Advisor | HR Operations | Employee Services**
+## 🏢 British Telecom (BT)
 
-📍 Gurgaon  
-📅 February 2022 – Present
+### Ask HR Advisor | HR Operations | Employee Services
 
-- Act as a first point of contact for employees and managers for HR queries relating to payroll, policies, benefits, leave, and HR systems.
-- Manage HR cases through **Oracle, ServiceNow, MyHR/iConnect** while meeting SLA requirements.
-- Support employee lifecycle activities including onboarding, role changes, grievance-related cases, disciplinary cases, absence management, promotions, transfers, and separations.
-- Coordinate with HRBPs, People Managers, payroll, recruitment, and other support teams.
-- Generate HR reports covering attrition, retention, time-to-hire, leave usage, and performance metrics.
-- Maintain accurate, GDPR-compliant employee records.
-- Support HR process improvements, people initiatives, SOP updates, compliance, and audit requirements.
-- Handle complex cases and cross-functional escalations.
+**Gurgaon | February 2022 – Present**
+
+- First point of contact for employees and managers for HR queries.
+- Handle queries related to payroll, policies, benefits, leave and HR systems.
+- Manage HR cases through **Oracle, ServiceNow and MyHR/iConnect**.
+- Support employee lifecycle activities including:
+  - Onboarding
+  - Role changes
+  - Promotions
+  - Transfers
+  - Absence management
+  - Grievance-related cases
+  - Disciplinary cases
+  - Separations
+- Coordinate with HRBPs, People Managers, Payroll, Recruitment and support teams.
+- Generate HR reports covering:
+  - Attrition
+  - Retention
+  - Time-to-hire
+  - Leave usage
+  - Performance metrics
+- Maintain accurate and GDPR-compliant employee records.
+- Support SOP updates and HR process improvements.
+- Handle complex HR cases and cross-functional escalations.
 
 ---
 
-### British Telecom (BT)
-**Business Service Support Advisor**
+## 🏢 British Telecom (BT)
 
-📍 Gurgaon  
-📅 December 2019 – January 2022
+### Business Service Support Advisor
+
+**Gurgaon | December 2019 – January 2022**
 
 - Worked with the Cloud Voice team supporting BT business customers.
-- Prepared Cloud orders and managed portal activities through VEL.
+- Prepared Cloud orders and managed VEL portal activities.
 - Supported number porting activities.
-- Proactively resolved customer issues for UK customers.
-- Coordinated Openreach engineers for broadband installation and line activation updates.
+- Resolved customer issues for UK customers.
+- Coordinated Openreach engineers for broadband installation.
+- Supported line activation and customer updates.
 
 ---
 
-### Accenture
-**Senior Advisor — Customer Support**
+## 🏢 Accenture
 
-📍 Gurgaon  
-📅 April 2019 – November 2019
+### Senior Advisor — Customer Support
 
-- Supported Verizon customers with billing, payment, data, and network troubleshooting.
-- Managed service requests, account updates, and escalations.
-- Improved customer experience through process and data-driven solutions.
+**Gurgaon | April 2019 – November 2019**
 
----
-
-### Concentrix, SYNNEX Corporation
-**Technical Advisor — Amazon Support**
-
-📍 Gurgaon  
-📅 October 2017 – April 2019
-
-- Provided technical support for Amazon devices including Fire Stick, Kindle, Alexa, and Amazon Video.
-- Troubleshot third-party devices including Vizio, Samsung, Sony, and Roku TVs.
-- Handled billing, refunds, device setup, and application-related issues.
-- Documented troubleshooting knowledge and supported team training.
+- Supported Verizon customers.
+- Handled billing, payment, data and network-related issues.
+- Managed service requests and account updates.
+- Handled customer escalations.
+- Focused on customer experience and process improvement.
 
 ---
 
-## 🏆 Achievements
+## 🏢 Concentrix / SYNNEX Corporation
 
-- 🥇 Scored **1000/1000** in the capstone project *"Attracting & Retaining Talent in SMEs"*.
-- ⭐ Awarded **Star Performer — British Telecom** for exceptional performance and accuracy.
-- 🏅 Recognized for top performance during **Ask HR training**.
-- 🏅 Secured **two Top Performer certificates** for excellence in Ask HR UK Chat and Cases.
+### Technical Advisor — Amazon Support
+
+**Gurgaon | October 2017 – April 2019**
+
+- Provided technical support for Amazon devices.
+- Supported Fire Stick, Kindle, Alexa and Amazon Video.
+- Troubleshot Vizio, Samsung, Sony and Roku TVs.
+- Handled billing, refunds and device setup.
+- Resolved application-related issues.
+- Created troubleshooting documentation.
+- Supported team training.
 
 ---
 
-## 🎓 Education
+# 🛠️ Skills
+
+## HR Technology
+
+<p>
+<img src="https://img.shields.io/badge/Workday-167?style=for-the-badge">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white">
+<img src="https://img.shields.io/badge/SAP%20SuccessFactors-008FD3?style=for-the-badge&logo=sap&logoColor=white">
+</p>
+
+## 📊 Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+</p>
+
+## 👥 HR & People Skills
+
+- HR Operations
+- Employee Relations
+- Employee Experience
+- Employee Lifecycle Management
+- HR Case Management
+- Payroll & Leave Administration
+- Stakeholder Management
+- HR Reporting
+- HR Analytics
+- Workforce Planning
+- Talent Management
+- Talent Retention
+- SOP Development
+- Process Improvement
+- Compliance & Governance
+
+---
+
+# 🎓 Education
 
 ### Master of Business Administration
+
 **MBA — Human Resource & Marketing**
 
 ### Bachelor of Science
+
 **B.Sc. (Z.B.C.) — Lucknow University**
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-### Professional Certificate Programme in HR Management & Analytics
+### 🎓 Professional Certificate Programme in HR Management & Analytics
+
 **IIM Kozhikode — May 2024**
 
-Key areas covered:
+Key areas:
 
-- Performance Management Systems (PMS)
+- Performance Management Systems
 - Talent Engagement
 - Performance & Retention Analytics
 - Talent Acquisition & Development Analytics
-- HR Benchmarking & Practices
-- Workforce Planning & Talent Sourcing
+- HR Benchmarking
+- Workforce Planning
+- Talent Sourcing
 - Strategic Human Resource Management
 - HR Analytics
 
-Case studies included:
+### 📘 Six Sigma Certification
 
-- Google — Project Oxygen
-- Southwest Airlines
-- Orix Geoscience
-
-### Six Sigma Certification
 **Udemy**
 
 ---
 
-## 📊 Featured Project
+# 🏆 Achievements
 
-### Attracting & Retaining Talent in SMEs
+### 🥇 Capstone Project
 
-**Capstone Project — IIM Kozhikode**
+**Attracting & Retaining Talent in SMEs**
 
-Applied talent acquisition and retention strategies with a focus on improving employee engagement.
+**Score: 1000/1000**
 
-**Score: 1000/1000 🏆**
+Applied talent acquisition and retention strategies to improve employee engagement.
+
+### ⭐ Star Performer — British Telecom
+
+Recognized for exceptional performance and accuracy.
+
+### 🏅 Ask HR Recognition
+
+Recognized for top performance during Ask HR training.
+
+### 🏅 Top Performer Certificates
+
+Received two Top Performer certificates for excellence in:
+
+- Ask HR UK Chat
+- Ask HR UK Cases
 
 ---
 
-## 💡 Core Strengths
+# 📊 Featured HR Projects
+
+## 1️⃣ HR Attrition Dashboard
+
+**Tools:** Power BI | Excel
+
+### Objective
+
+Analyze employee attrition and identify trends affecting retention.
+
+### Key Metrics
+
+- Attrition Rate
+- Employee Turnover
+- Department-wise Attrition
+- Tenure Analysis
+- Retention Trends
+
+---
+
+## 2️⃣ Recruitment Analytics Dashboard
+
+**Tools:** Excel | Power BI
+
+### Objective
+
+Analyze recruitment performance and hiring efficiency.
+
+### Metrics
+
+- Time-to-Hire
+- Hiring Funnel
+- Source Effectiveness
+- Offer-to-Join Ratio
+- Recruitment Trends
+
+---
+
+## 3️⃣ Employee Experience Dashboard
+
+**Tools:** Power BI | Excel
+
+### Objective
+
+Track employee experience and engagement indicators.
+
+### Metrics
+
+- Employee Engagement
+- Leave Trends
+- Employee Queries
+- Case Resolution
+- SLA Performance
+
+---
+
+## 4️⃣ Talent Retention Project
+
+### Attracting & Retaining Talent in SMEs
+
+**IIM Kozhikode Capstone Project**
+
+Focus areas:
+
+- Talent Acquisition
+- Employee Engagement
+- Retention Strategies
+- Performance Management
+- Workforce Planning
+
+**Project Score: 1000/1000 🏆**
+
+---
+
+# 💡 My HR Philosophy
+
+> **People + Process + Technology + Analytics**
+
+I believe effective HR combines human connection with efficient processes and data-driven decision making.
+
+My approach is focused on:
+
+**Listen → Understand → Analyze → Resolve → Improve**
+
+---
+
+# 🎯 Target Roles
+
+I am open to opportunities in:
+
+- HR Operations
+- Ask HR
+- HR Advisor
+- Employee Services
+- HR Shared Services
+- HR Operations Analyst
+- HR Analytics
+- People Operations
+- Employee Experience
+- HRIS / HR Systems
+- HR Process Improvement
+
+---
+
+# 📁 Portfolio Structure
 
 ```text
-People + Process + Technology + Analytics
+meenaksh mishra.github.io/
+│
+├── README.md
+│
+├── profile-photo.jpg
+│
+├── projects/
+│   ├── hr-analytics/
+│   ├── employee-experience/
+│   ├── recruitment-analytics/
+│   └── talent-retention/
+│
+├── dashboards/
+│   ├── power-bi/
+│   └── excel/
+│
+├── certifications/
+│
+└── documents/
